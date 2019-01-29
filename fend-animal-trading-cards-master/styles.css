@@ -1,0 +1,29 @@
+.intresting{
+    font-style: italic;
+    padding-left: 5px;
+}
+.list {
+    list-style-type: none;
+    padding-left: 4px;
+}
+.bold {
+    font-weight: bold;
+}
+.facts {
+    border: 1px solid #eaeaea;
+    width:338px;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-left: 10px;
+    box-shadow: 10px 5px 5px #eaeaea;
+}
+.info {
+    border: 1px solid #eaeaea;
+    margin-left: 1.3px;
+    margin-right: 38px;
+    margin-bottom: 10px;
+    margin-top: 3px;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 6px;
+}
